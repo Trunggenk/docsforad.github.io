@@ -93,3 +93,11 @@ Second tab content
 </tab>
 </tabs>
 
+<code-block lang="mermaid">
+graph LR
+   A[Do you write docs?]
+   A -- Yes --> B[Use Writerside]
+   A -- No --> C[Tell us why]
+</code-block>
+
+![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
