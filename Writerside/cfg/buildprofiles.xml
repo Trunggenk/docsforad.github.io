@@ -2,10 +2,10 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
         <primary-color>aqua</primary-color>
-        <custom-favicons>LOGO_NEXTZEN-03.png</custom-favicons>
-        <header-logo>LOGO_NEXTZEN-04.png</header-logo>
-        <product-web-url>trunggenk.github.io</product-web-url>
-        <download-title>Get Awesome App</download-title>
+        <custom-favicons>favicon.png</custom-favicons>
+        <header-logo>favicon.png</header-logo>
+        <product-web-url>https://google.com</product-web-url>
+        <download-title>Tải xuống</download-title>
         <download-page>https://example.com</download-page>
         <showDownloadButton>true</showDownloadButton>
     </variables>

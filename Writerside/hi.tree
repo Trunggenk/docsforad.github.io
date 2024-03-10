@@ -6,7 +6,9 @@
                  name="Hướng dẫn sử dụng cho ADMIN"
                  start-page="Default-topic.md">
 
-    <toc-element topic="How-to.md"/>
+    <toc-element topic="How-to.md">
+        <toc-element topic="Empty-MD-Topic.md"/>
+    </toc-element>
     <toc-element topic="Giới-thiệu.md"/>
     <toc-element topic="Default-topic.md"/>
 </instance-profile>
