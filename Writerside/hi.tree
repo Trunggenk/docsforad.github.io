@@ -8,5 +8,12 @@
 
 
     <toc-element topic="Tutorial.md"/>
-    <toc-element topic="Lien-Voi-Chung-Toi.md"/>
+    <toc-element topic="Lien-Voi-Chung-Toi.md">
+    </toc-element>
+    <toc-element topic="Hướng-Dẫn-Cài-Đặt.md">
+        <toc-element topic="Tutorialq1.topic"/>
+    </toc-element>
+    <toc-element topic="Hướng-Dẫn-Sử-Dụng.md">
+        <toc-element topic="Reference.topic"/>
+    </toc-element>
 </instance-profile>

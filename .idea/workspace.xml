@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a53c2378-c44d-48a8-ba89-3a1fac120ffd" name="Changes" comment="2">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/redirection-rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Hướng-Dẫn-Cài-Đặt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Reference.topic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writerside/topics/Tutorialq1.topic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Lien-Voi-Chung-Toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Lien-Voi-Chung-Toi.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +81,15 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/trung/WritersideProjects/Docsforadmin/Writerside/images",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.updates",
     "stardust.locate.by.url.history": ",https://www.jetbrains.com/help/writerside/"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+      "C:/Users/trung/WritersideProjects/Docsforadmin/Writerside/topics/Hướng-Dẫn-Cài-Đặt.md",
+      "C:/Users/trung/WritersideProjects/Docsforadmin/Writerside/topics/Lien-Voi-Chung-Toi.md",
+      "C:/Users/trung/WritersideProjects/Docsforadmin/Writerside/topics/Tutorial.md"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
