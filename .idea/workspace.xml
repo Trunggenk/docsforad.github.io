@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a53c2378-c44d-48a8-ba89-3a1fac120ffd" name="Changes" comment="cec">
-      <change afterPath="$PROJECT_DIR$/Writerside/topics/Problems.md" afterDir="false" />
+    <list default="true" id="a53c2378-c44d-48a8-ba89-3a1fac120ffd" name="Changes" comment="cec4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Writerside/hi.tree" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/hi.tree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Hướng-Dẫn-Cài-Đặt.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Hướng-Dẫn-Cài-Đặt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Writerside/topics/Lien-Voi-Chung-Toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Lien-Voi-Chung-Toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Writerside/topics/Problems.md" beforeDir="false" afterPath="$PROJECT_DIR$/Writerside/topics/Problems.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +86,7 @@
       <recent name="C:\Users\trung\WritersideProjects\Docsforadmin\Writerside\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trung\WritersideProjects\Docsforadmin\Writerside\topics" />
       <recent name="C:\Users\trung\WritersideProjects\Docsforadmin\Writerside" />
       <recent name="C:\Users\trung\WritersideProjects\Docsforadmin\cfg" />
       <recent name="C:\Users\trung\WritersideProjects\Docsforadmin\.idea" />
@@ -138,6 +137,8 @@
     <MESSAGE value="change it" />
     <MESSAGE value="2" />
     <MESSAGE value="cec" />
-    <option name="LAST_COMMIT_MESSAGE" value="cec" />
+    <MESSAGE value="cec3" />
+    <MESSAGE value="cec4" />
+    <option name="LAST_COMMIT_MESSAGE" value="cec4" />
   </component>
 </project>

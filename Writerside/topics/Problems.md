@@ -100,4 +100,4 @@ graph LR
    A -- No --> C[Tell us why]
 </code-block>
 
-![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
+![check](completion_procedure.png){ border-effect="line" thumbnail="true" width="321"}
